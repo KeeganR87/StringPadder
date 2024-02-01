@@ -1,0 +1,5 @@
+# Remove IDE folders/files
+.idea/
+
+# Remove other compile code
+target/
